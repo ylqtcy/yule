@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "美少女",
-      "name": "🔞美少女"_8888,#genre#
+      "name": "🔞美少女_8888,#genre#",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
