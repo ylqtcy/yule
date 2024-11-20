@@ -2,7 +2,7 @@
   "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
   "sites": [
     {
-      "key": "美少女",
+      "key": "美少女_8888,#genre#",
       "name": "🔞美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
